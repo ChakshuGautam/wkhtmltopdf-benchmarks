@@ -1,0 +1,22 @@
+{
+  "name": "wkhtmltopdf-benchmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChakshuGautam/wkhtmltopdf-benchmarks.git"
+  },
+  "author": "ChakshuGautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChakshuGautam/wkhtmltopdf-benchmarks/issues"
+  },
+  "homepage": "https://github.com/ChakshuGautam/wkhtmltopdf-benchmarks#readme",
+  "dependencies": {
+    "wkhtmltopdf": "^0.4.0"
+  }
+}
